@@ -12,3 +12,14 @@ td {
 tr:nth-child(even) {
   background-color: #f2f2f2;
 }
+
+input {
+  width: 50%;
+}
+
+.arrow {
+  display: inline-block;
+  /* vertical-align: middle; */
+  max-width: 30%;
+  /* border: 1px solid blue; */
+}
